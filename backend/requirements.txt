@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pymongo
+bcrypt
+passlib
+python-jose
+pytrends
+prophet
+openai
+requests
+python-dotenv

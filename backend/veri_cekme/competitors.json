@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Guideline",
+        "website": "https://www.guideline.com/",
+        "description": "At Guideline, we’re on a mission to help everyone arrive at a safe, secure retirement, whether they're a small business owner, an employee, or self-employed. Guideline is the easy, affordable retirement platform trusted by more than 50K+ businesses and self-employed to manage over $15B+ in assets. With a platform that takes complexity and doubt out of retirement planning and replaces it with knowledge and clarity, Guideline empowers people to invest in their financial future with confidence. Since our launch in 2016, we’ve raised $344 million in venture capital from investors including General Atlantic, Generation Investment Management, Greyhound Capital, Felicis Ventures, and Propel Ventures. Guideline was founded by Kevin... Read more",
+        "sector": ""
+    },
+    {
+        "name": "Rippling",
+        "website": "https://www.rippling.com/",
+        "description": "Rippling is the first HR + IT platform. Through one, easy-to-use platform, businesses can manage their employee's payroll, health insurance, benefits, HR and even IT — from their computers to their software. Hiring someone, for example? Through Rippling, you can: invite your new hire to e-sign their agreements, add them to payroll and benefits, order and configure their computer, and create their user account in over 300 apps like Gmail, MS Office, Slack, Salesforce, and Dropbox. All in just a few clicks. Rippling is HQ in San Francisco and backed by top-tier investors, including Initialized, DFJ, Y Combinator and the founders of Twitch, Quora, Khan Academy and AngelList.",
+        "sector": ""
+    },
+    {
+        "name": "Benchling",
+        "website": "http://www.benchling.com/",
+        "description": "Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, and the household goods that we rely on every day. But moving at the new speed of science requires better technology. Benchling’s mission is to unlock the power of biotechnology. The world’s most innovative biotech companies use Benchling’s R&D Cloud to power the development of breakthrough products.",
+        "sector": ""
+    },
+    {
+        "name": "YipitData",
+        "website": "https://yipitdata.com/",
+        "description": "YipitData is the leading market research firm for the disruptive economy and recently raised $475M from The Carlyle Group at a valuation of over $1B. We analyze billions of data points every day to provide accurate, detailed insights on ridesharing, e-commerce marketplaces, payments and more. Our on-demand insights team uses proprietary technology to identify, license, clean and analyze the data many of the world’s largest investment funds and corporations depend on. We are one of Inc’s Best Workplaces - a fast-growing technology company with offices located in NYC (where we are based in), Hong Kong, and Shanghai, backed by The Carlyle Group and Norwest Venture Partners with a strong culture focused on mastery, ownership, and transparency.",
+        "sector": ""
+    },
+    {
+        "name": "Instabase",
+        "website": "https://instabase.com/",
+        "description": "Today, on your smartphone you have an app store where you can find a dozen apps to have food delivered to your door, but we don’t have an app store where a large enterprise, like a bank, can find an app for income verification, or where an insurance company can find an app for processing claims. Every such application is custom built. We should wonder — why? The desktop computer is an important interface for business applications. Problem is, it wasn’t built to perform modern business operations. The problem lies in the operating system. Where Android and iOS were designed to allow applications to interact with one another, desktop computing simply wasn’t. This means that operations such as deal analysis and... Read more",
+        "sector": ""
+    },
+    {
+        "name": "Pantheon Platform",
+        "website": "https://pantheon.io/",
+        "description": "We build best-in-class WordPress and Drupal sites with agile workflows, scalable infrastructure, and a lightning-fast content delivery network. We run your sites on the fastest WebOps Platform on the planet. This includes our unrivaled speed, uptime, and scalability make our high-performance WebOps platform the best place to host WordPress and Drupal sites. We are the only hosting platform to include fully managed and free HTTPS certificates, automated backups, and one-click updates for all WebOps platform plans.",
+        "sector": ""
+    },
+    {
+        "name": "Maven Clinic",
+        "website": "http://www.mavenclinic.com/",
+        "description": "Maven connects patients with vetted, highly-qualified healthcare practitioners via video, with appointments starting at less than the price of a co-pay. No more waiting rooms and no more self-diagnosis. Maven allows consumers to book an appointment with a doctor, nurse practitioner, nutritionist, mental health provider, or pregnancy expert from wherever they are, and get a prescription if needed.",
+        "sector": ""
+    },
+    {
+        "name": "Forward Networks",
+        "website": "http://www.forwardnetworks.com/",
+        "description": "The software used to manage networks hasn’t kept up with the dramatic expansion of networks themselves. The Forward Networks solution is designed to help network teams eliminate network outages and reduce time to remediate errors. Its platform enables engineers and operators to visualize and search complex networks, debug configuration problems, verify network-wide policy implementations, and predict network behavior prior to deploying changes. Forward Networks builds a software replica of an entire network to analyze its behavior. Using the network copy, the software traces, indexes, and stores the collected data, monitoring things like end-to-end behavior, verification of the network’s forwarding behavior and security... Read more",
+        "sector": ""
+    },
+    {
+        "name": "Snappr",
+        "website": "https://www.snappr.com/",
+        "description": "Snappr is the one-stop-shop for visual content creation, including the largest on-demand photography and photo editing marketplace. Snappr Shoots is a self-service application to book photographers. Snappr Workflows is a SaaS product for enterprises to automate their visual content pipelines. Snappr also provides free tools such as the Snappr Photo Analyzer, an AI portrait photo-analysis tool. Snappr was founded in 2017 and is headquartered in San Francisco, California.",
+        "sector": ""
+    },
+    {
+        "name": "Zapier",
+        "website": "https://zapier.com/",
+        "description": "At Zapier, we’re not just making software—we’re building a platform to help millions of businesses globally scale with automation and AI. Customers wonder whether we have some kind of magical powers. But really, we’re just passionate humans who believe computers should do more—so that people can do what they do best. We’re constantly inspired by our customers’ creativity. Without Zapier, how else could Arden Insurance save $500K and 34,000 labor hours, or Gold Rush Vinyl automate 2,200+ hours annually? Zappy Award winners like Tony Adams of Daddy’s Chicken Shack, who tripled Google reviews, and Aaron Watkins, who automated personalized letters from Santa, show how our customers are pushing boundaries with AI-powered... Read more",
+        "sector": ""
+    }
+]
